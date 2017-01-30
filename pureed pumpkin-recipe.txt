@@ -1,0 +1,11 @@
+Ingredients:
+ - Pumpkin
+
+Directions:
+	1. Cut Pumpkin in half
+	2. Remove Seeds
+	3. Peel Pumpkin
+	4. Chop into 1" cubes
+	5. Submerge in water and boil until fork tender ~10 minutes
+	6. Drain water
+	7. Puree using an immersion blender
